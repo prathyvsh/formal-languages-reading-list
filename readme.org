@@ -296,7 +296,7 @@ R. Gregory Taylor, 1998
 ** [[https://amzn.to/2AI6eAX][Elementary Computability, Formal Languages, and Automata]]
  Robert McNaughton
  
- ** [[https://amzn.to/2ZdJYZe][Formal Languages and their relation to automata]]
+** [[https://amzn.to/2ZdJYZe][Formal Languages and their relation to automata]]
 John Hopcroft, Jeffrey Ullman (1969)
 
 ** [[https://amzn.to/3gIZ8LQ][Introduction to Languages, Machines, and Logic]]
