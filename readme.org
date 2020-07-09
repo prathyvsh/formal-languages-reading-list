@@ -1,0 +1,37 @@
+* Formal Languages Reading List
+
+** [[https://amzn.to/3iHs9tr][Formal Languages]]
+Arto Salomaa
+
+** [[https://amzn.to/2ZbtsZC][A course in formal languages, automata and groups]]
+Ian M. Chiswell
+
+** [[https://amzn.to/3efvkEW][An Introduction to the Theory of Formal Languages and Automata]]
+William P. Levelt
+
+** [[https://amzn.to/38Hjgvl][Theory of Finite Automata: With an introduction to formal languages]]
+John Carroll, Darrell Long
+
+** [[https://amzn.to/2W3uo0m][Theory of Computation: Formal Languages, Automata, and Complexity]]
+Glenn Brookshear
+
+** [[https://amzn.to/3fdQXXz][Introduction to the Theory of Computation]]
+Michael Sipser
+
+** [[https://amzn.to/2ZXcdue][Introduction to Automata Theory, Languages and Computation]]
+John Hopcroft, Jeffrey Ullman
+
+** [[https://amzn.to/38IijCT][An Introduction to Formal Languages and Automata]]
+Peter Linz
+
+** [[https://amzn.to/2AIoyKi][Brains, Machines, and Mathematics]]
+Michael Arbib
+
+** [[https://amzn.to/3iVL9V8][Theories of Abstract Automata]]
+Michael Arbib
+
+** [[https://amzn.to/2BTjpjc][An Introduction to Formal Language Theory]]
+Robert N. Moll, Michael A. Arbib, A.J. Kfoury, James Pustejovsky
+ 
+** [[https://amzn.to/2ObFMmk][A Basis for Theoretical Computer Science]]
+Robert N. Moll, Michael A. Arbib, A.J. Kfoury
