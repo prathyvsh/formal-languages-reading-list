@@ -293,6 +293,9 @@ Daniel I. A Cohen
 ** [[https://amzn.to/2BKA1K4][Models of Computation and Formal Languages]]
 R. Gregory Taylor, 1998
 
+** [[https://amzn.to/2AI6eAX][Elementary Computability, Formal Languages, and Automata]]
+ Robert McNaughton
+
 ** Tangential Reads
 
 *** Formal Models of Communicating Systems – Benedikt Bollig (2006)
