@@ -134,15 +134,22 @@ Arto Salomaa (1973), 313 pages
 Ian M. Chiswell (2009), 150 pages
 
 *** Table of Contents
-1. Grammars and Machine Recognition
-2. Recursive Functions
-3. Recursively Enumerable Sets and Languages
-4. Context-free Languages
-5. Connections with Group Theory
-A. Results and Proofs Omitted in the Text
-B. The Halting Problema nd Universal Turing Machines
-C. Cantor’s Diagonal Argument
-D. Solutions to Selected Exercises
+
+1. Grammars and Machine Recognition 1
+2. Recursive Functions 21
+3. Recursively Enumerable Sets and Languages 49
+4. Context-free Languages 59
+5. Connections with Group Theory 93
+
+A. Results and Proofs Omitted in the Text 131
+
+B. The Halting Problema nd Universal Turing Machines 139
+
+C. Cantor’s Diagonal Argument 141
+
+D. Solutions to Selected Exercises 143
+
+References 151
 
 ** [[https://amzn.to/3efvkEW][An Introduction to the Theory of Formal Languages and Automata]]
 William P. Levelt
