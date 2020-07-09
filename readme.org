@@ -329,6 +329,12 @@ S. Y. Yan
 ** [[https://amzn.to/38JTMx2][Theory of Computation]]
 Dexter C. Kozen, 2006
 
+** [[https://amzn.to/2BSB6PK][Computability, Complexity, and Languages: Fundamentals of Theoretical Computer Science]]
+Martin Davis, Ron Sigal, Elaine J. Weyuker (1983)
+
+** [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.465.3774&rep=rep1&type=pdf][Introduction to Languages and the Theory of Computation]]
+John C. Martin (1991)
+
 ** Notes
 
 *** [[http://archive.is/ywIfZ][Formal Languages]]
