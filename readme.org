@@ -155,60 +155,102 @@ References 151
 William P. Levelt
 
 *** Chapter 1: Grammars as formal systems 1
+
 1.1 Grammars, automata, and inference 1
+
 1.2 The definition of ‘grammar’ 3
+
 1.3 Examples 5
+
 *** Chapter 2: The hierarchy of grammars 9
+
 2.1 Classes of grammars 9
+
 2.2 Regular grammars 12
+
 2.3 Context-free grammars 16
+
 2.3.1 The Chomsky normal-form 16
+
 2.3.2 The Greibach normal-form 18
+
 2.3.3 Self-embedding 20
+
 2.3.4 Ambiguity 23
+
 2.3.5 Linear grammars 25
+
 2.4 Context-sensitive grammars 26
-2.4.1 Context-sensitive productions
+
+2.4.1 Context-sensitive productions 26
+
 2.4.2 The Kuroda normal-form 29
 
 *** Chapter 3: Probabilistic grammars 33
+
 3.1 Definitions and concepts 33
+
 3.2 Classification 35
+
 3.3 Regular probabilistic grammars 36
+
 3.4 Context-free probabilistic grammars 41
+
 3.4.1 Normal-forms 41
+
 3.4.2 Consistency conditions for context-free probabilistic grammars 46
 
 *** Chapter 4: Finite automata 49
+
 4.1 Definitions and concepts 50
+
 4.2 Nondeterministic finite automata 55
+
 4.3 Finite automata and regular grammars 58
+
 4.4 Probabilistic finite automata 62
 
+
 *** Chapter 5: Push-down automata 69
+
 5.1 Definitions and concepts 70
+
 5.2 Nondeterministic push-down automata and context-free languages 79
 
 *** Chapter 6: Linear-bounded automata 85
+
 6.1 Definitions and concepts 85
+
 6.2 Linear-bounded automata and context-sensitive grammars 89
 
 *** Chapter 7: Turing machines 95
+
 7.1 Definitions and concepts 96
+
 7.2 A few elementary procedures 97
+
 7.3 Turing machines and type-0 languages 100
+
 7.4 Mechanical procedures, recursive enumerability, and recursiveness 103
 
 *** Chapter 8: Grammatical inference 109
+
 8.1 Hypotheses, observations, and evaluation 109
+
 8.2 The classical estimation of parameters for probabilistic grammars 112
+
 8.3 The ‘learnability’ of nonprobabilistic languages 114
+
 8.4 Inference by means of Bayes’ theorem 118
 
 Historical and bibliographical remarks 125
+
 Appendix. Some references to new developments 129
+
 Bibliography 131
+
 Index of authors 135
+
 Index of subjects 137
 
 ** [[https://amzn.to/38Hjgvl][Theory of Finite Automata: With an introduction to formal languages]]
