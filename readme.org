@@ -323,6 +323,12 @@ György E. Révész, 1983
  ** [[https://amzn.to/3iMMYDB][The Language of Machines: An Introduction to Computability and Formal Languages]]
  Robert W. Floyd, Richard Beigel
 
+** [[][An Introduction to Formal Languages and Machine Computation]]
+S. Y. Yan
+
+** [[https://amzn.to/38JTMx2][Theory of Computation]]
+Dexter C. Kozen, 2006
+
 ** Notes
 
 *** [[http://archive.is/ywIfZ][Formal Languages]]
