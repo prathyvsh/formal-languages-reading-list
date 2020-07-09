@@ -319,6 +319,9 @@ György E. Révész, 1983
 
 ** [[http://www.webber-labs.com/fl/][Formal Language: A Practical Introduction]]
  Adam Brooks Webber, 2011
+ 
+ ** [[https://amzn.to/3iMMYDB][The Language of Machines: An Introduction to Computability and Formal Languages]]
+ Robert W. Floyd, Richard Beigel
 
 ** Notes
 
