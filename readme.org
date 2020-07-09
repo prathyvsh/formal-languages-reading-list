@@ -1,5 +1,7 @@
 * Formal Languages Reading List
 
+A catalogue covering the introductory books on formal languages. Formal languages are situated in a multi-disciplinary intersection. Some of these topics include linguistics, complexity, theory of computation, compilation, grammars, automata, set theory, number theory, combinatorics, and algebra.
+
 ** [[https://amzn.to/3iHs9tr][Formal Languages]]
 Arto Salomaa (1973), 313 pages
 
