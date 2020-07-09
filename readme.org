@@ -303,3 +303,4 @@ John Hopcroft, Jeffrey Ullman (1969)
 
 *** Formal Models of Communicating Systems – Benedikt Bollig (2006)
 *** Formal Languages and Compilation — Stefano Crespi Reghizzi (2009)
+*** Algebraic Theory of Automata and Languages — Masami Ito (2004)
