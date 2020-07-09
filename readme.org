@@ -299,6 +299,9 @@ R. Gregory Taylor, 1998
  ** [[https://amzn.to/2ZdJYZe][Formal Languages and their relation to automata]]
 John Hopcroft, Jeffrey Ullman (1969)
 
+** [[https://amzn.to/3gIZ8LQ][Introduction to Languages, Machines, and Logic]]
+Alan P. Parkes, 2002
+
 ** Tangential Reads
 
 *** Formal Models of Communicating Systems – Benedikt Bollig (2006)
