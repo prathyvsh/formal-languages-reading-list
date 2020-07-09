@@ -311,6 +311,10 @@ Michel Rigo
 ** [[https://amzn.to/2ZczqJJ][Finite Automata, Their Algebras and Grammars: Towards a Theory of Formal Expressions]]
 J. Richard Büchi, Dirk Siefkes (Editor)
 
+** [[Formal Languages and Computation: Models and Their Applications]]
+Alexander Meduna
+
+
 ** Surveys
 
 *** [[https://link.springer.com/book/10.1007/978-3-540-39886-8][Formal Languages and Applications]]
