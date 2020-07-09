@@ -295,6 +295,9 @@ R. Gregory Taylor, 1998
 
 ** [[https://amzn.to/2AI6eAX][Elementary Computability, Formal Languages, and Automata]]
  Robert McNaughton
+ 
+ ** [[https://amzn.to/2ZdJYZe][Formal Languages and their relation to automata]]
+John Hopcroft, Jeffrey Ullman (1969)
 
 ** Tangential Reads
 
