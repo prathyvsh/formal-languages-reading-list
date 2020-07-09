@@ -152,7 +152,7 @@ D. Solutions to Selected Exercises 143
 References 151
 
 ** [[https://amzn.to/3efvkEW][An Introduction to the Theory of Formal Languages and Automata]]
-William P. Levelt
+William P. Levelt, (130 pages) 2008
 
 *** Chapter 1: Grammars as formal systems 1
 
