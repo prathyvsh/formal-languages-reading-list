@@ -7,29 +7,43 @@ Arto Salomaa (1973), 313 pages
 
 **** Part I
 ***** Chapter I Language and Grammar
-1) Rewriting Systems 3
-2) Grammars 9
-3) Closure under Basic Operations 17
-4) Hierarchy of Automata 26
+
+1/ Rewriting Systems 3
+
+2/ Grammars 9
+
+3/ Closure under Basic Operations 17
+
+4/ Hierarchy of Automata 26
+
 - Exercises 38
 - Bibliographical Remarks 40
 - Bibliography 41
 
 ***** Chapter II Regular and Context-Free Languages
 
-5) Equivalent Characterizations of Regular Languages 42
-6) Context-Free Derivations 51
-7) Parikh Mappings and Homomorphic Characterization 63
-8) Subfamilies of Context-Free Languages 72
+5/ Equivalent Characterizations of Regular Languages 42
+
+6/ Context-Free Derivations 51
+
+7/ Parikh Mappings and Homomorphic Characterization 63
+
+8/ Subfamilies of Context-Free Languages 72
+
 - Exercises 77
 - Bibliographical Remarks 79
 - Bibliography 79
 
 ***** Chapter III Context-Sensitive and Type-0 Languages
-9) Recursively Enumerable and Recursive Languages Hierarchy of Four Language Families 82
-10) Workspace 93
-11) Homomorphic Charactenzation of Type-0 Languages 103
-12) Rudimentary Predicates 109
+
+9/ Recursively Enumerable and Recursive Languages Hierarchy of Four Language Families 82
+
+10/ Workspace 93
+
+11/ Homomorphic Charactenzation of Type-0 Languages 103
+
+12/ Rudimentary Predicates 109
+
 - Exercises 118
 - Bibliographical Remarks 119
 - Bibliography 120
@@ -37,35 +51,53 @@ Arto Salomaa (1973), 313 pages
 **** Part Two
 
 ***** Chapter IV Abstract Families of Languages
-1) Interdependence of Operations 123
-2) AFL's and Related Systems 130
+
+1/ Interdependence of Operations 123
+
+2/ AFL's and Related Systems 130
+
 - Exercises 139
 - Bibliographical Remarks 140
 - Bibliography 140
 
 ***** Chapter V Regulated Rewriting
-3) Matrix Grammars 143
-4) Time-Varying Grammars 152
-5) Programmed Grammars 160
-6) Control Languages 172
-7) Ordered Grammars 186
+
+3/ Matrix Grammars 143
+
+4/ Time-Varying Grammars 152
+
+5/ Programmed Grammars 160
+
+6/ Control Languages 172
+
+7/ Ordered Grammars 186
+
 - Exercises 191
 - Bibliographical Remarks 192
 - Bibliography 193
 
 ***** Chapter VI Context-Free Languages Revisited
-8) Formal Power Series 195
-9) Ambiguity 204
-10) Restrictions on Derivations 210
-11) Regular-Like Expressions 217
-12) LR(A:) and LL(fc) Grammars 223
+
+8/ Formal Power Series 195
+
+9/ Ambiguity 204
+
+10/ Restrictions on Derivations 210
+
+11/ Regular-Like Expressions 217
+
+12/ LR(A:) and LL(fc) Grammars 223
+
 - Exercises 230
 - Bibliographical Remarks 231
 - Bibliography 232
 
 ***** Chapter VII Some Further Classes of Generative Devices
-13) Lindenmayer Systems Parallel Rewriting without Terminals 234
-14) Transformational, Categorial, Indexed, Scattered Context, and Probabilistic Grammars 252
+
+13/ Lindenmayer Systems Parallel Rewriting without Terminals 234
+
+14/ Transformational, Categorial, Indexed, Scattered Context, and Probabilistic Grammars 252
+
 - Exercises 261
 - Bibliographical Remarks 262
 - Bibliography 263
@@ -73,16 +105,23 @@ Arto Salomaa (1973), 313 pages
 **** Part Three
 
 ***** Chapter VIII Solvability and Unsolvability
-1) Existence of Algorithms 267
-2) Post Correspondence Problem and Unsolvable Problems for Languages 273
-3) Solvability of Structural Equivalence of Context-Free Grammars 287
+
+1/ Existence of Algorithms 267
+
+2/ Post Correspondence Problem and Unsolvable Problems for Languages 273
+
+3/ Solvability of Structural Equivalence of Context-Free Grammars 287
+
 - Exercises 293
 - Bibliographical Remarks 295
 - Bibliography 295
 
 ***** Chapter IX Complexity
-4) Time-Bounded Grammars. Speedup Theorem 298
-5) Axiomatic Approach. Gap Theorem 307
+
+4/ Time-Bounded Grammars. Speedup Theorem 298
+
+5/ Axiomatic Approach. Gap Theorem 307
+
 - Exercises 312
 - Bibliographical Remarks 312
 - Bibliography 313
