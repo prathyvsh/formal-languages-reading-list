@@ -314,6 +314,12 @@ J. Richard Büchi, Dirk Siefkes (Editor)
 ** [[https://amzn.to/2ZdVp36][Formal Languages and Computation: Models and Their Applications]]
 Alexander Meduna (2014)
 
+** [[https://amzn.to/2ZUdEtt][Introduction to Formal Languages]]
+György E. Révész, 1983
+
+** [[http://www.webber-labs.com/fl/][Formal Language: A Practical Introduction]]
+ Adam Brooks Webber, 2011
+
 ** Notes
 
 *** [[http://archive.is/ywIfZ][Formal Languages]]
