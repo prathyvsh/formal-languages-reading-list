@@ -290,6 +290,9 @@ Jeffrey Shallit, 2008
 ** Introduction to Computer Theory
 Daniel I. A Cohen
 
+** [[https://amzn.to/2BKA1K4][Models of Computation and Formal Languages]]
+R. Gregory Taylor, 1998
+
 ** Tangential Reads
 
 *** Formal Models of Communicating Systems – Benedikt Bollig (2006)
