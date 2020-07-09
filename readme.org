@@ -331,4 +331,4 @@ Carlos Martin-Vide Victor Mitrana Gheorge Paun (Eds.) (2004)
 *** Algebraic Theory of Automata and Languages — Masami Ito (2004)
 *** The Pillars of Computation Theory: State, Encoding, Nondeterminism (2010)
 *** Varieties of Formal Languages — J. E. Pin (1986)
-*** Formal Languages in Logic: A Philosophical and Cognitive Analysis – Catarina Dutilh Novaes
+*** Formal Languages in Logic: A Philosophical and Cognitive Analysis – Catarina Dutilh Novaes (2012)
