@@ -5,6 +5,10 @@ A catalogue covering the introductory books on formal languages. Formal language
 ** [[https://amzn.to/3iHs9tr][Formal Languages]]
 Arto Salomaa (1973), 313 pages
 
+#+BEGIN_EXPORT html
+<details>
+#+END_EXPORT
+
 *** Table of Contents
 
 **** Part I
@@ -129,6 +133,10 @@ Arto Salomaa (1973), 313 pages
 - Bibliography 313
 - Guide to the Literature 315
 - Subject Index 319
+
+#+BEGIN_EXPORT html
+</details>
+#+END_EXPORT
 
 ** [[https://amzn.to/2ZbtsZC][A course in formal languages, automata and groups]]
 Ian M. Chiswell (2009), 150 pages
