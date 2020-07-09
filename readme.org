@@ -2,14 +2,6 @@
 
 A catalogue covering the introductory books on formal languages. Formal languages are situated in a multi-disciplinary intersection. Some of these topics include linguistics, complexity, theory of computation, compilation, grammars, automata, set theory, number theory, combinatorics, and algebra.
 
-
-#+BEGIN_EXPORT html
-<details>
-Hi
-</details>
-#+END_EXPORT
-
-
 ** [[https://amzn.to/3iHs9tr][Formal Languages]]
 Arto Salomaa (1973), 313 pages
 
@@ -301,3 +293,4 @@ Daniel I. A Cohen
 ** Tangential Reads
 
 *** Formal Models of Communicating Systems – Benedikt Bollig (2006)
+*** Formal Languages and Compilation — Stefano Crespi Reghizzi (2009)
