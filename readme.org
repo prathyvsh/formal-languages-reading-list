@@ -302,6 +302,11 @@ John Hopcroft, Jeffrey Ullman (1969)
 ** [[https://amzn.to/3gIZ8LQ][Introduction to Languages, Machines, and Logic]]
 Alan P. Parkes, 2002
 
+** Surveys
+
+*** [[https://link.springer.com/book/10.1007/978-3-540-39886-8][Formal Languages and Applications]]
+Carlos Martin-Vide Victor Mitrana Gheorge Paun (Eds.) (2004)
+
 ** Tangential Reads
 
 *** Formal Models of Communicating Systems – Benedikt Bollig (2006)
