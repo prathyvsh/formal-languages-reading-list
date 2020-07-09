@@ -285,3 +285,7 @@ Jeffrey Shallit, 2008
 
 ** Introduction to Computer Theory
 Daniel I. A Cohen
+
+** Tangential Reads
+
+*** Formal Models of Communicating Systems – Benedikt Bollig (2006)
