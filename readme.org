@@ -335,7 +335,7 @@ Martin Davis, Ron Sigal, Elaine J. Weyuker (1983)
 John C. Martin (1991)
 
 ** [[https://amzn.to/3ea5aU5][Introduction to Automata Theory, Formal Languages and Computation]]
-Shyamlender Khalendu
+Shyamlendu Kandar
 
 ** [[https://amzn.to/2ZfIzBr][Languages and Machines]]
 Thomas A. Sudkamp, 1988
