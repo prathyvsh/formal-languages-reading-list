@@ -6,6 +6,17 @@ Arto Salomaa
 ** [[https://amzn.to/2ZbtsZC][A course in formal languages, automata and groups]]
 Ian M. Chiswell
 
+*** Table of Contents
+1. Grammars and Machine Recognition
+2. Recursive Functions
+3. Recursively Enumerable Sets and Languages
+4. Context-free Languages
+5. Connections with Group Theory
+A. Results and Proofs Omitted in the Text
+B. The Halting Problema nd Universal Turing Machines
+C. Cantor’s Diagonal Argument
+D. Solutions to Selected Exercises
+
 ** [[https://amzn.to/3efvkEW][An Introduction to the Theory of Formal Languages and Automata]]
 William P. Levelt
 
