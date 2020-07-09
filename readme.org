@@ -180,3 +180,6 @@ Robert N. Moll, Michael A. Arbib, A.J. Kfoury, James Pustejovsky
  
 ** [[https://amzn.to/2ObFMmk][A Basis for Theoretical Computer Science]]
 Robert N. Moll, Michael A. Arbib, A.J. Kfoury
+
+** [[https://amzn.to/2DllSmJ][A second course in formal languages and automata theory]]
+Jeffrey Shallit, 2008
