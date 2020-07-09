@@ -130,7 +130,7 @@ Arto Salomaa (1973), 313 pages
 - Guide to the Literature 315
 - Subject Index 319
 
-** [[https://archive.org/details/computationfinit0000mins][Computation: Finite and Infinite Machines]]
+** [[https://amzn.to/3iInbwx][Computation: Finite and Infinite Machines]]
 Marvin Minsky, 1967
 
 ** [[https://amzn.to/2ZbtsZC][A course in formal languages, automata and groups]]
