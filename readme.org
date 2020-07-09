@@ -4,7 +4,7 @@
 Arto Salomaa
 
 ** [[https://amzn.to/2ZbtsZC][A course in formal languages, automata and groups]]
-Ian M. Chiswell
+Ian M. Chiswell (2009), 150 pages
 
 *** Table of Contents
 1. Grammars and Machine Recognition
