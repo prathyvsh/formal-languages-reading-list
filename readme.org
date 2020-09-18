@@ -377,6 +377,14 @@ Keijo Ruohonen, 2009
 *** [[https://www.sciencedirect.com/science/article/pii/S0022000074800310/pdf?md5=0c71b0ce688b0d4ca81a181089b02af9&pid=1-s2.0-S0022000074800310-main.pdf][A Generalized Approach to Formal Languages]]
 T. S. E. Maibaum
 
+*** [[https://www.sciencedirect.com/science/article/abs/pii/S0146664X72800194][Abstract Families of Matrices and Picture Languages]]
+
+[[./img/matrices-and-picture-languages-1.png]] [[./img/matrices-and-picture-languages-2.png]]
+Gift Stromoney, Rani Siromoney, Kamala Krithivasan (1972)
+
+*** [[https://dl.acm.org/doi/10.1145/957197.804740[A language for two-dimensional digital picture processing]]
+Wang and Grosky (1976)
+
 ** Surveys
 
 *** [[https://link.springer.com/book/10.1007/978-3-540-39886-8][Formal Languages and Applications]]
