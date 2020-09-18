@@ -295,7 +295,7 @@ John Hopcroft, Jeffrey Ullman
 ** [[https://amzn.to/38IijCT][An Introduction to Formal Languages and Automata]]
 Peter Linz
 
-** [[https://amzn.to/3kHMwa7][Introduction to Formal Languages]]
+** [[https://amzn.to/3kHMwa7][Introduction to Formal Grammars]]
 Maurice Gross, André Lentin, Morris Salkoff (Translator)
 
 ** [[https://amzn.to/2AIoyKi][Brains, Machines, and Mathematics]]
