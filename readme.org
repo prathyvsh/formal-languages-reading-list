@@ -378,11 +378,13 @@ Keijo Ruohonen, 2009
 T. S. E. Maibaum
 
 *** [[https://www.sciencedirect.com/science/article/abs/pii/S0146664X72800194][Abstract Families of Matrices and Picture Languages]]
-
-[[./img/matrices-and-picture-languages-1.png]] [[./img/matrices-and-picture-languages-2.png]]
 Gift Stromoney, Rani Siromoney, Kamala Krithivasan (1972)
 
-*** [[https://dl.acm.org/doi/10.1145/957197.804740[A language for two-dimensional digital picture processing]]
+[[./img/matrices-and-picture-languages-1.png]] [[./img/matrices-and-picture-languages-2.png]]
+
+
+
+*** [[https://dl.acm.org/doi/10.1145/957197.804740][A language for two-dimensional digital picture processing]]
 Wang and Grosky (1976)
 
 ** Surveys
