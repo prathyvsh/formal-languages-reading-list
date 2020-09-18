@@ -5,10 +5,15 @@ A catalogue covering the introductory books on formal languages. Formal language
 ** [[https://amzn.to/3iHs9tr][Formal Languages]]
 Arto Salomaa (1973), 313 pages
 
-*** Table of Contents
+#+BEGIN_HTML
+<details>
+<summary><strong>Table of Contents</strong></summary>
+#+END_HTML
 
 **** Part I
 ***** Chapter I Language and Grammar
+
+#:in<details>Hello</details>
 
 1/ Rewriting Systems 3
 
@@ -130,13 +135,20 @@ Arto Salomaa (1973), 313 pages
 - Guide to the Literature 315
 - Subject Index 319
 
+#+BEGIN_HTML
+</details>
+#+END_HTML
+
 ** [[https://amzn.to/3iInbwx][Computation: Finite and Infinite Machines]]
 Marvin Minsky, 1967
 
 ** [[https://amzn.to/2ZbtsZC][A course in formal languages, automata and groups]]
 Ian M. Chiswell (2009), 150 pages
 
-*** Table of Contents
+#+BEGIN_HTML
+<details>
+<summary><strong>Table of Contents</strong></summary>
+#+END_HTML
 
 1. Grammars and Machine Recognition 1
 2. Recursive Functions 21
@@ -154,8 +166,17 @@ D. Solutions to Selected Exercises 143
 
 References 151
 
+#+BEGIN_HTML
+</details>
+#+END_HTML
+
 ** [[https://amzn.to/3efvkEW][An Introduction to the Theory of Formal Languages and Automata]]
 William P. Levelt, (130 pages) 2008
+
+#+BEGIN_HTML
+<details>
+<summary><strong>Table of Contents</strong></summary>
+#+END_HTML
 
 *** Chapter 1: Grammars as formal systems 1
 
@@ -213,7 +234,6 @@ William P. Levelt, (130 pages) 2008
 
 4.4 Probabilistic finite automata 62
 
-
 *** Chapter 5: Push-down automata 69
 
 5.1 Definitions and concepts 70
@@ -255,6 +275,10 @@ Bibliography 131
 Index of authors 135
 
 Index of subjects 137
+
+#+BEGIN_HTML
+</details>
+#+END_HTML
 
 ** [[https://amzn.to/38Hjgvl][Theory of Finite Automata: With an introduction to formal languages]]
 John Carroll, Darrell Long
@@ -344,6 +368,11 @@ Thomas A. Sudkamp, 1988
 
 *** [[http://archive.is/ywIfZ][Formal Languages]]
 Keijo Ruohonen, 2009
+
+** Papers
+
+*** [[https://www.sciencedirect.com/science/article/pii/S0022000074800310/pdf?md5=0c71b0ce688b0d4ca81a181089b02af9&pid=1-s2.0-S0022000074800310-main.pdf][A Generalized Approach to Formal Languages]]
+T. S. E. Maibaum
 
 ** Surveys
 
