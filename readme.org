@@ -331,6 +331,9 @@ Alan P. Parkes, 2002
 ** [[https://amzn.to/3ec5uC0][Formal Languages, Automata and Numeration Systems 1: Introduction to Combinatorics on Words]]
 Michel Rigo
 
+** [[Programs and Machines: An Introduction to the Theory of Computation]]
+Richard Bird
+
 ** [[https://amzn.to/3elYzq1][Formal Languages, Automata and Numeration Systems 2: Applications to Recognizability and Decidability]]
 Michel Rigo
 
